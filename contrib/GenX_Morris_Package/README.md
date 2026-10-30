@@ -175,6 +175,6 @@ Please also preserve and follow all applicable GenX copyright notices and softwa
 
 ## 10. Contribution and Review
 
-This package is provided for technical review of the Morris sensitivity-analysis and BFPS–Optimal Transport enhancements.
+This package is provided for technical review of the Morris sensitivity-analysis and BFPS–Optimal Transport enhancements. The included example_systems/NY_v11/ materials are provided to support reviewer testing and validation of the submitted enhancements. They are not intended as general-purpose GenX example systems.
 
 Potential integration into GenX should follow the GenX project's contribution, code review, testing, and licensing requirements.
